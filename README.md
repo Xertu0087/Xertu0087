@@ -3,7 +3,7 @@
 </p>
 
 <div align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Serif&size=25&pause=1000&color=F06C46&background=06081800&center=true&vCenter=true&width=435&lines=The+night+of+your+glory" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Meow+Script&size=25&pause=1000&color=F06C46&background=06081800&center=true&vCenter=true&width=435&lines=Welcome+to+the+party;The+night+of+your+glory+!" alt="Typing SVG" /></a>
 </div>
 
 <h1 align='center'>
@@ -11,12 +11,11 @@ Hi nerds !<br> I'm Xertu !
 </h1>
 
 <p align='center'>
-I am a very proud computer science nerd that loves to learn new things tech related!
+I am a very proud computer science nerd that loves to learn new things tech related!<br> I also make games!
 </p>
-<div align='center'>
-  
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn-white&logoColor=white)](https://www.linkedin.com/in/ericksimoes/)
 
+<div align='center'>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Itch.io-cb4d4d?style=for-the-badge&logo=itch.io&logoColor=white&link=https%3A%2F%2Fxertu0087.itch.io%2F">
 </div>
 
 My ✨*expertise*✨ (Learning Languages):
@@ -36,7 +35,11 @@ Management tools XD:
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-B84CFF?style=for-the-badge&logo=Obsidian&logoColor=white)
 
+<div align='center'>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Xertu0087&theme=calm&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+</div>
 
 <!--
 **Xertu0087/Xertu0087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

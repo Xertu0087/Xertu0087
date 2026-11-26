@@ -32,6 +32,7 @@ Management tools XD:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-B84CFF?style=for-the-badge&logo=Obsidian&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-d703fc?style=for-the-badge&logo=slack&logoColor=white)
 
 <div align='center'>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Xertu0087&theme=calm&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>

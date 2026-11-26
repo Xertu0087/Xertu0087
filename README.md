@@ -9,7 +9,7 @@ Hi nerds !<br> I'm Xertu !
 
 <p align='center'>
 I am a very proud computer science nerd that loves to learn new things tech related!<br> I also make games!<br><br>
-  <a href="xertu0087.itch.io">
+  <a href="https://xertu0087.itch.io">
     <img alt="Itch.io" src="https://img.shields.io/badge/Itch.io-cb4d4d?style=for-the-badge&logo=itch.io&logoColor=white&link=https%3A%2F%2Fxertu0087.itch.io%2F">
   </a>
 </p>
@@ -39,7 +39,7 @@ Management tools XD:
 
 ### Need something? Hit my Email!
 <p>
-  <a href="matheustechdez4@gmail.com">
+  <a href="mailto:matheustechdez4@gmail.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-fc413d?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>

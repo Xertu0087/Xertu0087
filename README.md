@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fx_kWooRazEA%2Fmaxresdefault.jpg%3Fsqp%3D-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgEyh_MA8%3D%26rs%3DAOn4CLAfmGEMctYCR2uLcWEpsPR5nE-pkg\&f=1\&nofb=1\&ipt=2fcc6b189e83195b096503b53ed201e1608a6f35d1121b03a20128af9f8954a7\&ipo=images" width="100%">
-</p>
-
 <div align='center'>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com font=Meow+Script&size=25&pause=1000&color=F06C46&background=06081800&center=true&vCenter=true&width=435&lines=Welcome+to+the+party;The+night+of+your+glory+!" alt="Typing SVG" /></a>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fx_kWooRazEA%2Fmaxresdefault.jpg%3Fsqp%3D-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgEyh_MA8%3D%26rs%3DAOn4CLAfmGEMctYCR2uLcWEpsPR5nE-pkg\&f=1\&nofb=1\&ipt=2fcc6b189e83195b096503b53ed201e1608a6f35d1121b03a20128af9f8954a7\&ipo=images" width="100%">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Meow+Script&size=25&pause=1000&color=F06C46&background=06081800&center=true&vCenter=true&width=435&lines=Welcome+to+the+party;The+night+of+your+glory+!" alt="Typing SVG" /></a>
 </div>
 
 <h1 align='center'>

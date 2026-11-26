@@ -3,7 +3,7 @@
 </p>
 
 <div align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Meow+Script&size=25&pause=1000&color=F06C46&background=06081800&center=true&vCenter=true&width=435&lines=Welcome+to+the+party;The+night+of+your+glory+!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com font=Meow+Script&size=25&pause=1000&color=F06C46&background=06081800&center=true&vCenter=true&width=435&lines=Welcome+to+the+party;The+night+of+your+glory+!" alt="Typing SVG" /></a>
 </div>
 
 <h1 align='center'>
@@ -11,12 +11,11 @@ Hi nerds !<br> I'm Xertu !
 </h1>
 
 <p align='center'>
-I am a very proud computer science nerd that loves to learn new things tech related!<br> I also make games!
+I am a very proud computer science nerd that loves to learn new things tech related!<br> I also make games!<br><br>
+  <a href="xertu0087.itch.io">
+    <img alt="Itch.io" src="https://img.shields.io/badge/Itch.io-cb4d4d?style=for-the-badge&logo=itch.io&logoColor=white&link=https%3A%2F%2Fxertu0087.itch.io%2F">
+  </a>
 </p>
-
-<div align='center'>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Itch.io-cb4d4d?style=for-the-badge&logo=itch.io&logoColor=white&link=https%3A%2F%2Fxertu0087.itch.io%2F">
-</div>
 
 My ✨*expertise*✨ (Learning Languages):
 
@@ -41,17 +40,9 @@ Management tools XD:
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Xertu0087&theme=calm&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 
-<!--
-**Xertu0087/Xertu0087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Need something? Hit my Email!
+<p>
+  <a href="matheustechdez4@gmail.com">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-fc413d?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
